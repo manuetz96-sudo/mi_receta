@@ -1,3 +1,6 @@
 # Mi receta
 
-Nombre del plato: ...
+Nombre del plato: Torta de chocolate
+    - Harina
+    -Chocolate
+    -Huevos
