@@ -1,0 +1,2 @@
+# ¿Por qué me gusta?
+Desde pequeña me ha gustado mucho el dulce y cocinar, todo lo que sea comida de sal no me llama la atención aprenderlo o no tanto como el dulce, así que me encanta aprender sobre cómo hacer cositas así, el volcán fue de las últimas que aprendí, así que por eso lo elegí.

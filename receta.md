@@ -55,3 +55,4 @@ Nombre del plato: Volcán de chocolate
         Saca del horno y déjalos reposar exactamente 1 minuto.
 
         Pasa un cuchillo sin filo o espátula suave alrededor del borde si es necesario y desmolda directamente en el plato con cuidado.
+
