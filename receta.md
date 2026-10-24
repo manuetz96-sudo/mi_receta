@@ -59,3 +59,7 @@ Nombre del plato: Volcán de chocolate
 ## Corregir o mejorar
 
     -Ya di todos los pasos, algo personal para resaltar un poco el dulce, es agregarle un poco de leche en polvo pulverizada a la hora de servirlo
+
+## Mejorar receta
+
+    -Se puede sustentar mejor los pasos o el tiempo de preparación a gusto
