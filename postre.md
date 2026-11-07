@@ -25,3 +25,5 @@
 * Precalienta tu mini horno a **175 °C – 180 °C**.
 * Hornea de **8 a 10 minutos**.
 * *Ojo:* Sácalas en cuanto veas los **bordes ligeramente dorados**, aunque el centro se vea suave.
+
+8. **Reposo:** Deja que se enfríen unos minutos en la bandeja antes de transferirlas a una rejilla para que terminen de enfriarse.
