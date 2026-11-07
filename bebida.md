@@ -17,3 +17,4 @@
 4. **Servir:** Vierte la malteada inmediatamente en tu vaso frío.
 5. **Decorar:** Si te gusta, añade un buen remolino de crema batida arriba, un chorrito de sirope de chocolate y una cereza.
 
+¡Listo! Ya tienes la malteada perfecta para disfrutar junto a tus galletas recién horneadas.
