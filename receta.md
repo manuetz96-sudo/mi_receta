@@ -1,4 +1,4 @@
-# Mi receta
+# Receta
 
 Nombre del plato: Volcán de chocolate
 
