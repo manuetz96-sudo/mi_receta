@@ -16,26 +16,27 @@ Nombre del plato: Volcán de chocolate
     -45 mins en el horno
     -10 mins de reposo
 
-## Pasos de preparacion:
+## Pasos de preparación
+    1. Prepara el mini horno y los moldes
+    Precalienta el mini horno a 200 °C (en los mini hornos conviene vigilar un poco el calor directo de las resistencias).
 
-    -Prepara el mini horno y los moldes:
+    Engrasa muy bien los moldes de silicona con mantequilla 
+    y espolvoréalos con cacao en polvo (o un poco de harina) para que salgan sin pegarse.
 
-        Precalienta el mini horno a 200 °C.
+    2. Derrite el chocolate y la mantequilla
+    Coloca 100 g de chispas de chocolate y 100 g de mantequilla en un recipiente apto para calor.
 
-        Engrasa muy bien tus moldes de silicona con mantequilla y espolvoréalos con cacao en polvo (o un toque de harina) para facilitar el desmolde.
+    Derrite a baño María o en el microondas en intervalos cortos de 15 a 20 segundos, revolviendo entre cada uno para que no se queme.
 
-    -Derrite el chocolate y la mantequilla:
+    Mezcla hasta lograr una crema lisa y deja entibiar unos minutos antes de unirla con los huevos.
 
-        En un recipiente resistente al calor, derrite los 100 g de chispas de chocolate junto con los 100 g de mantequilla a baño María o en lapsos cortos de 15 a 20 segundos en microondas.
+    3. Bate la base de huevo y azúcar
+    En otro recipiente, pon 2 huevos enteros, 2 yemas y 50 g de azúcar.
 
-        Mezcla suavemente hasta obtener una crema homogénea y deja atemperar unos minutos.
+    Bate con globo manual o tenedor hasta que el azúcar se integre y la mezcla aclare ligeramente.
 
-   - Bate la base de huevo y azúcar:
-
-        En un bol separado, integra los 2 huevos enteros, las 2 yemas y los 50 g de azúcar.
-
-        Bate bien (con batidor manual o tenedor) hasta que la mezcla aclare un poco y se integren por completo. Agrega aquí la pizca de sal y la vainilla si deseas.
-
+    Incorpora una pizca de sal y vainilla al gusto.
+    
     -Integra los ingredientes:
 
         Vierte la mezcla de chocolate derretido sobre los huevos batidos, revolviendo continuamente.
