@@ -57,6 +57,8 @@ Nombre del plato: Volcán de chocolate
 
         Pasa un cuchillo sin filo o espátula suave alrededor del borde si es necesario y desmolda directamente en el plato con cuidado.
 
+        Puedes dejarla así o si te gustan las cosas dulces, puedes agregarle un poco de azúcar glas y espolvorear un poco de canela en polvo.
+
 ## Corregir o mejorar
 
     -Ya di todos los pasos, algo personal para resaltar un poco el dulce, es agregarle un poco de leche en polvo pulverizada a la hora de servirlo
